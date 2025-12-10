@@ -1,6 +1,6 @@
 # 🛒 Sistema de Control de Ventas y Compras (Almacenes La Prosperidad)
 
-Este proyecto es una aplicación de escritorio desarrollada en Java para gestionar las operaciones diarias de un almacén, incluyendo inventario, ventas, devoluciones y fidelización de clientes. Fue desarrollado como parte del curso de [Nombre del Curso, ej: Estructura de Datos o Programación Avanzada] en [Nombre de la Universidad/Instituto].
+Este proyecto es una aplicación de escritorio desarrollada en Java para gestionar las operaciones diarias de un almacén, incluyendo inventario, ventas, devoluciones y fidelización de clientes. Fue desarrollado como parte del curso de Algoritmia y Programación 2 en la Universidad del Norte.
 
 ## ✨ Funcionalidades Destacadas
 
@@ -27,7 +27,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Java para gestion
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/control-ventas-inventario-java.git](https://github.com/tu-usuario/control-ventas-inventario-java.git)
+    git clone [https://github.com/valeriaflorezs/Control-Ventas-Inventario-Java.git](https://github.com/tu-usuario/control-ventas-inventario-java.git)
     ```
 2.  **Opción A: Ejecutar el JAR (Recomendado)**
     Asegúrate de tener Java instalado. Navega a la carpeta principal y ejecuta:
@@ -47,3 +47,4 @@ Se adjunta la documentación oficial del sistema para referencia técnica y de u
 ## 👤 Creadoras
 
 Este software fue desarrollado por **Katherin Barrera** y **Valeria Florez**
+
