@@ -6,22 +6,22 @@ Este proyecto es una aplicación de escritorio desarrollada en Java para gestion
 
 * **Manejo de Bodega y Control de Inventario:**
     * Registro, consulta, actualización y eliminación de productos.
-    * [cite_start]Cálculo automático del precio de venta (costo + 20% de margen)[cite: 1006].
+    * Cálculo automático del precio de venta (costo + 20% de margen)
 * **Gestión de Ventas y Facturación:**
-    * [cite_start]Registro de transacciones verificando el stock en tiempo real[cite: 1033].
-    * [cite_start]Generación automática de facturas[cite: 1029, 1030].
+    * Registro de transacciones verificando el stock en tiempo real
+    * Generación automática de facturas
 * **Programa de Fidelización (Clientes Frecuentes):**
-    * [cite_start]Asignación de descuentos automáticos basados en el acumulado de compras (10% Regular, 20% V.I.P. > $100.000, 30% Platino > $500.000)[cite: 1084, 1085, 1087].
+    * Asignación de descuentos automáticos basados en el acumulado de compras (10% Regular, 20% V.I.P. > $100.000, 30% Platino > $500.000)
 * **Reportes Diarios:**
-    * [cite_start]Resumen detallado de ventas, devoluciones, compras y el balance de caja[cite: 1090].
+    * Resumen detallado de ventas, devoluciones, compras y el balance de caja
 * **Gestión de Devoluciones:**
-    * [cite_start]Registro de devoluciones con actualización del balance de caja (para reembolsos) y descarte del producto devuelto del inventario[cite: 1052, 1144].
+    * Registro de devoluciones con actualización del balance de caja (para reembolsos) y descarte del producto devuelto del inventario
 
 ## 💻 Tecnologías y Requisitos
 
 * **Lenguaje de Programación:** Java.
-* [cite_start]**Entorno de Desarrollo:** Apache NetBeans IDE[cite: 1129].
-* [cite_start]**Requisitos de Ejecución:** Java Runtime Environment (JRE) / Máquina Virtual de Java (JVM)[cite: 909, 910].
+* **Entorno de Desarrollo:** Apache NetBeans IDE
+* **Requisitos de Ejecución:** Java Runtime Environment (JRE) / Máquina Virtual de Java (JVM)
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
@@ -41,13 +41,9 @@ Este proyecto es una aplicación de escritorio desarrollada en Java para gestion
 
 Se adjunta la documentación oficial del sistema para referencia técnica y de usuario:
 
-* [Manual de Usuario](Manual_Usuario.pdf)
-* [Manual de Sistema (Diseño Técnico)](Manual_Sistema.pdf)
+* [Manual de Usuario](Manual_Usuario_KB_VF.pdf)
+* [Manual de Sistema (Diseño Técnico)](Manual_Sistema_KB_VF.pdf)
 
 ## 👤 Creadoras
 
-[cite_start]Este software fue desarrollado por **Katherin Barrera** y **Valeria Florez**[cite: 1107, 1556].
-
----
-
-**¿Te parece bien esta estructura y borrador de README?** Si tienes los archivos fuente de Java, puedes empezar a organizarlos en esa estructura de carpetas y procederemos a la subida con Git.
+Este software fue desarrollado por **Katherin Barrera** y **Valeria Florez**
